@@ -82,5 +82,5 @@ Requirements:
     return generate_text(
         prompt,
         temperature=0.35,
-        max_output_tokens=900,
+        max_output_tokens=2000,
     )
